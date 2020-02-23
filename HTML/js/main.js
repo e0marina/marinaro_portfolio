@@ -63,7 +63,7 @@ $(window).on("load", function() {
 		TYPED JS
 	--------------------*/
   $(".element").typed({
-    strings: ["I'm Emily Marinaro", "Web Developer", "From Los Angeles"],
+    strings: ["Hi, I'm Emily", "Web Developer", "From Los Angeles"],
     typeSpeed: 10,
     loop: true,
     backDelay: 2000
