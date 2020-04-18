@@ -5,3 +5,5 @@ The purpose of this project was to create an updated and more polished / profess
 The new portfolio site includes links to my resume, github and linkedin (in addition to having a more sleek and imo, fun design). 
 
 Future developments:  make the portfolio images do something on hover. 
+
+Linked portfolio: https://e0marina.github.io/updated_portfolio/
