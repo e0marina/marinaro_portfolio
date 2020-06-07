@@ -6,4 +6,4 @@ The new portfolio site includes links to my resume, github and linkedin (in addi
 
 Future developments:  make the portfolio images do something on hover. 
 
-Linked portfolio: https://e0marina.github.io/updated_portfolio/
+Linked portfolio: https://hardcore-babbage-953c98.netlify.app/
