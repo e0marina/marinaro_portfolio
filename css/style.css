@@ -334,6 +334,20 @@ ul {
   -webkit-animation: blink 0.7s infinite;
   animation: blink 0.7s infinite;
 }
+
+.project-header-img {
+  margin-top: 20px;
+  height: 60%;
+}
+
+.project-buttons {
+  margin-top: 50px;
+}
+
+.btn-info {
+  margin-left: 75px;
+}
+
 @keyframes blink {
   0% {
     opacity: 1;
