@@ -619,11 +619,11 @@ ul {
   Review Section
 =======================*/
 .review-item {
-  display: none;
+  /* display: none; */
   text-align: center;
 }
 .review-item .clint {
-  display: none;
+  /* display: none; */
   width: 120px;
   height: 120px;
   margin: 15px auto 20px;
@@ -633,29 +633,29 @@ ul {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 }
 .review-item p {
-  display: none;
+  /* display: none; */
   margin-bottom: 20px;
   font-style: italic;
   font-size: 20px;
 }
 .review-item h2 {
-  display: none;
+  /* display: none; */
   font-size: 20px;
   font-family: "Poppins", sans-serif;
   font-weight: 700;
   margin-bottom: 5px;
 }
 .review-item h3 {
-  display: none;
+  /* display: none; */
   font-size: 14px;
 }
 .owl-nav {
-  display: none;
+  /* display: none; */
   text-align: center;
   margin-top: 40px;
 }
 .owl-nav div {
-  display: none;
+  /* display: none; */
   width: 40px;
   height: 40px;
   display: inline-table;
@@ -670,13 +670,13 @@ ul {
   transition: all 0.6s;
 }
 .owl-nav div i {
-  display: none;
+  /* display: none; */
   display: table-cell;
   vertical-align: middle;
   font-size: 18px;
 }
 .owl-nav div:hover {
-  display: none;
+  /* display: none; */
   background: #333;
   color: #fff;
 }
