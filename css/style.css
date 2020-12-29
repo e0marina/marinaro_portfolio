@@ -335,9 +335,13 @@ ul {
   animation: blink 0.7s infinite;
 }
 
+/* #som-des-img {
+  width: 100% !important;
+} */
+
 .project-header-img {
   margin-top: 20px;
-  height: 60%;
+  width: 60%;
 }
 
 .project-buttons {
